@@ -4,7 +4,7 @@
 void main()
 {
     int i, l;
-    char str[20]
+    char str[20];
     printf("Enter a string: \n");
     gets(str);
     l = strlen(str);
