@@ -3,7 +3,7 @@
 
 void main()
 {
-    char str[20];
+    char str[20]
     int i, l, count=0;
     printf("Enter a String: \n");
     gets(str);
