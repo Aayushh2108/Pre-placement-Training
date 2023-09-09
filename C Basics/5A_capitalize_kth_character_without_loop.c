@@ -11,7 +11,7 @@ void main()
     gets(str);
     printf("Enter a position: \n");
     scanf("%d", &pos);
-    str[pos - 1] = str[pos - 1] - 32;
+    str[pos - 1] = str[pos - 1] - 32
     puts(str);
     getch();
 }
