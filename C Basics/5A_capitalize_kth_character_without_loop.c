@@ -13,5 +13,5 @@ void main()
     scanf("%d", &pos);
     str[pos - 1] = str[pos - 1] - 32;
     puts(str);
-    getch();
+    getch()
 }
