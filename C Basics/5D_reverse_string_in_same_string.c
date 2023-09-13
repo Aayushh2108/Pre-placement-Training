@@ -14,7 +14,7 @@ void main()
         temp = str[i];
         str[i] = str[right];
         str[right] = temp;
-        right--;
+        right--
     }
     printf("%s", str);
 }
