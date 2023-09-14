@@ -7,6 +7,6 @@ void main(){
     gets(str);
     n=strlen(str);
     for(i=n; i>=0; i--){
-        printf("%c", str[i]);
+        printf("%c", str[i])
     }
 }
