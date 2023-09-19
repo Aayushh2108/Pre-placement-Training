@@ -7,7 +7,7 @@ void main(){
     int i, pos, len;
     printf("Enter a string: \n");
     gets(str);
-    printf("Enter a position: \n");
+    printf("Enter a position: \n")
     scanf("%d", &pos);
     len = strlen(str);
     for(i=0; i<=len; i++){
