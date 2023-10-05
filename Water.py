@@ -17,7 +17,7 @@ while(rule != 0):
             y = 3
             print(x)
             print(y)
-    elif(rule == 3):
+    elif(rule == 3)
             if(x>0):
                 print("pour some water out of the x gallon jug")
                 x = x - 1
