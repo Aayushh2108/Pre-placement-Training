@@ -7,7 +7,7 @@ userCannibals = 0
 k = 0
 print("\nM M M C C C |	 --- | \n")
 try:
-	while(True)
+	while(True):
 		while(True):
 			print("Left side -> right side river travel")
 			userMission = int(input("Enter number of Missionaries travel => "))	
