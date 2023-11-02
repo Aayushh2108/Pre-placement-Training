@@ -5,8 +5,7 @@
 void main(){
     char str[20];
     int i, pos, len;
-    printf("Enter a string: \n")
-        
+    printf("Enter a string: \n");
     gets(str);
     printf("Enter a position: \n");
     scanf("%d", &pos);
