@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 void main(){
-    int i, n;
+    int i, n
     char str[200];
     printf("Enter a string: \n");
     
