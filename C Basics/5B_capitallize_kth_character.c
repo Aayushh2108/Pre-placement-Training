@@ -8,7 +8,7 @@ void main(){
     printf("Enter a string: \n");
     gets(str);
     printf("Enter a position: \n");
-    scanf("%d", &pos)
+    scanf("%d", &pos);
     len = strlen(str);
     for(i=0; i<=len; i++){
         if(pos==i){
