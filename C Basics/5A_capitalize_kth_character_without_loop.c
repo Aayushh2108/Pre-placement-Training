@@ -7,7 +7,7 @@ void main()
 {
     char str[200];
     int pos;
-    printf("Enter a string: \n");
+    printf("Enter a string: \n")
     gets(str);
     printf("Enter a position: \n");
     scanf("%d", &pos);
