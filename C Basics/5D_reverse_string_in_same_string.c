@@ -9,7 +9,7 @@ void main()
     len = strlen(str);
     left = 0;
     right = len - 1;
-    for (i = left; i <= right; i++
+    for (i = left; i <= right; i++)
     {
         temp = str[i];
         str[i] = str[right];
