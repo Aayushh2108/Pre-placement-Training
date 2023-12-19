@@ -10,7 +10,7 @@ void main()
     int i, j, n;
     // char k=1;
     char ch = 'A';
-    printf("Enter the number of rows and columns: \n")
+    printf("Enter the number of rows and columns: \n");
     scanf("%d", &n);
     for (i=1; i<=n; i++){
         for(j=1; j<=n; j++){
