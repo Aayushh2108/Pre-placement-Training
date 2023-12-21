@@ -8,7 +8,7 @@
 void main(){
     int i, j, n;
     printf("Enter the number of rows and columns: \n");
-    scanf("%d", &n)
+    scanf("%d", &n);
     for(i=1; i<=n; i++){
         for(j=1; j<=i; j++){
             printf("*\t");
