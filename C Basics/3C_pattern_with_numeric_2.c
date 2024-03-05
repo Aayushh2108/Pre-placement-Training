@@ -13,7 +13,7 @@ void main(){
     scanf("%d", &c);
     for(i=1; i<=r; i++){
         for(j=1; j<=c; j++){
-            printf("%d\t", i)
+            printf("%d\t", i);
         }
         printf("\n");
     }
