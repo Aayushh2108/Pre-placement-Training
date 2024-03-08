@@ -5,7 +5,7 @@
 
 void main()
 {
-    char str[200]
+    char str[200];
     int pos;
     printf("Enter a string: \n");
     
