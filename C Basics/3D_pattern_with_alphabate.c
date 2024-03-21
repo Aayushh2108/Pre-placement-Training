@@ -17,7 +17,7 @@ void main()
                 printf("%c", 64+i);
             }
             else{
-                printf("%c", 96+i)
+                printf("%c", 96+i);
             }
         }
         printf("\n");
