@@ -4,7 +4,7 @@ int factorial(int n){
     for(i=1;i<=n;i++){
         fact=fact*i;
     } 
-    return fact
+    return fact;
 }
 
 void main(){
